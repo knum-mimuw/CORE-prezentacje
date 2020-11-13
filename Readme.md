@@ -6,5 +6,5 @@ CORE w poprzednich latach.
 Przygotowaliśmy wzorce prezentacji, żeby zachować jednolitość i ułatwić przygotowanie
 prezentacji. Pliki do różnych edytorów można znaleźć poniżej.
 
-* Microsoft PowerPoint: [KNUM template.pptx]   (KNUM template.pptx)
+* Microsoft PowerPoint: [KNUM template.pptx](KNUM_template.pptx)
 * Google Slides: [KNUM template](sdf)
